@@ -1,0 +1,8 @@
+name = "tablehub"
+compatibility_date = "2026-10-07"
+pages_build_output_dir = "./dist"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "tablehub-auth"
+database_id = "7089a987-d93b-4a5e-9bdd-d276c4e92cbf"
